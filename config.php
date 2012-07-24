@@ -1,11 +1,10 @@
 <?php
-# PINBOARD TO DREAMWIDTH 0.8
+# PINBOARD TO DREAMWIDTH
 # Code by snakeling (snakeling.dreamwidth.org)
-# http://snakeling.dreamwidth.org/181398.html
+# https://github.com/snakeling/PinToDW
 # CC-BY-NC
 
-# Last modified 2011-11-14
-# See Changelog at http://snakeling.dreamwidth.org/186905.html
+# Last modified 2012-07-24
 
 /*************************************
              CONFIGURATION

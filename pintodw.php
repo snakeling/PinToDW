@@ -1,6 +1,4 @@
 <?php
-# PINBOARD TO DREAMWIDTH 0.8
-
 /********** DEFAULT CONFIG **********/
 
 $categories = '';
